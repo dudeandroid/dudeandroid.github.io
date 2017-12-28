@@ -44,13 +44,13 @@ paginate_path: /posts/page:num
 
 # Site owner
 owner:
-  name: Site Name
+  name: Due Android
   avatar: site-logo.png
   email: #youremail
   disqus-shortname: #your-disqus-shortname
-  twitter: #your-twitter-name
-  facebook: #username
-  github: #your-github-name
+  twitter: dudeandroid
+  facebook: dudeandroid
+  github: dudeandroid
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram:
